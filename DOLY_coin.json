@@ -1,16 +1,6 @@
 {
     "name": "Sunny Dooly",
     "symbol": "DOLY",
-    "description": "Sunny Dooly, known as HAT-NIM-BANG-GEUT Dooly (햇님방긋 둘리) in Korean, is a cheerful Shih Tzu. It is a meme token honoring the noble spirit of the Shih Tzu. The name Dooly is widely recognized in South Korea, as it is also the name of the beloved dinosaur character from the popular Korean animation Dooly the Little Dinosaur (아기공룡 둘리). Sunny Dooly Tokens are envisioned for use in NFTs, artworks, and various cultural content, including concerts, webtoons, and more.",
-    "image": "https://raw.githubusercontent.com/readyp1ayer1/solana-tokens/refs/heads/main/DOLY_image-icon.jpg"
-    "animation_url": null,
-    "external_url": null,
-    "attributes": [
-	{ "trait_type": "Supply Cap", "value": "100,000,000,000" },
-	{ "trait_type": "Decimals", "value": 9 }
-    ],
-    "collection": {
-	"name": "LivesOnEathSeries",
-	"family": "MemeTokens"
-    },
+    "description": "Sunny Dooly, known as HAT-NIM-BANG-GEUT Dooly in Korean, is a cheerful Shih Tzu. It is a meme token honoring the noble spirit of the Shih Tzu. The name Dooly is widely recognized in South Korea, as it is also the name of the beloved dinosaur character from the popular Korean animation Dooly the Little Dinosaur. Sunny Dooly Tokens are envisioned for use in NFTs, artworks, and various cultural content, including concerts, webtoons, and more.",
+    "image": "https://raw.githubusercontent.com/readyp1ayer1/solana-tokens/refs/heads/main/DOLY_image-icon.jpg",
 }
